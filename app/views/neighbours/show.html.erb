@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @neighbour.name %>
+</p>
+
+<p>
+  <strong>Phone:</strong>
+  <%= @neighbour.phone %>
+</p>
+
+<p>
+  <strong>Address:</strong>
+  <%= @neighbour.address %>
+</p>
+
+<p>
+  <strong>About:</strong>
+  <%= @neighbour.about %>
+</p>
+
+<%= link_to 'Edit', edit_neighbour_path(@neighbour) %> |
+<%= link_to 'Back', neighbours_path %>

@@ -1,0 +1,2 @@
+class Neighbour < ApplicationRecord
+end
