@@ -1,4 +1,4 @@
-# API-Neighbour
+# API-
 # README
 
 Ce fichier README documenterait normalement toutes les étapes nécessaires pour que l'application soit opérationnelle.
@@ -9,9 +9,7 @@ Choses que vous voudrez peut-être couvrir:
 
 * Installez RailsInstaller 
 
-* creer un projet avec la commande rails new nom_project 
-
-* se pointer sur le nouveau projet crée dans le terminale,
+* se pointer sur le nouveau projet crée dans le terminal
 
 * creer la base de donnée avec : rails db:create
 
